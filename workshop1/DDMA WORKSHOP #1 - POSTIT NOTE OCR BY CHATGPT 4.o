@@ -1,34 +1,14 @@
 DDMA WORKSHOP #1 - POSTIT NOTE OCR BY CHATGPT 4.o
 
-ORANGE
-Shape policy: approach media and authorities
-Collaboration on mobility processes
-Policy: regular public posts and use-cases to spread awareness
-Recommend and support “Best Practices” or standards
-Long-term goals: become well-established and functional community; a data and analytics hub to find relevant information and tools from one place
-Strongly encourage participation from underrepresented or marginalized groups
-Continuous collaboration between each stakeholder for sustainable mobility improvement/development (e.g., government, transport operators, university)
-Identify gaps in knowledge & understanding; could be done by network mapping related research
-Establish/step mobility studies as a field so researchers stop saying “I don’t know what I am”
-Collaborative urban living labs?
-Develop data collection and processing methods and be in contact with policymakers to meet their expectations
-Provide info for general public
-Open code + tools
-Engage/work with policymakers & public/local communities in our research
-Facilitating collaboration and distributing knowledge/data
-Including cities, policymakers, and businesses
-Open toolkit for analyzing mobility data
-One thing that could make a group stand out is actually focusing on stakeholder engagement outside purely academia
-Mobility observatory
-Open toolkit
-Sharing research to publication
-Documentation about helpful processes
-Open toolkits for different stakeholders — making it available for everyone & explainable for policymakers
-To foster a scattered collaborative ecosystem that improves data handling, accessibility, affordability, and data-driven decisions for research purposes
-A public mobility observatory that launches “start-up ideas”
 
+*** Community and Collaboration *** 
 
-GREEN
+What should a sustainable mobility data analytics collective actually look like?
+
+What roles and commitments would we envision for members (e.g., data sharing, co-development, mentorship, infrastructure hosting)?
+
+How can we ensure equitable participation across geographic, institutional, and disciplinary lines?
+
 DATA COLLECTIVE: open, sharing tools, search of data/metadata, inclusive (OSS/resources), common project applications
 If there is a fee, no membership fee for global south students
 Hosting steering committee from various demographic, career stage, industry/academic/policy
@@ -79,39 +59,14 @@ Enable volunteer-led contributions like question boards and prompts with target 
 Include international participants from governments, international orgs, and private sectors
 
 
-PURPLE
-Communication: good website is key, GitHub organization for the collective, mailing list would be nice
-Events: bi-annual conference? working group meetings twice a year
-Online seminars/lectures
-Hackathons or challenge competitions that join up private stakeholders and funding that actually gets used—some useful for local governments
-A conference would be great; a website with output, ideas, research, achievements; brainstorming through emails or video calls for writing a paper
-Events: lightning talks, discovery workshops
-Communication: regular chat times to calendar (idea)
-Monthly meetings or lightning talks (spots available to reserve)
-Wondering: responsibility (rotation?) for mailing list, workshops, online meetings, etc.
-Social platforms and e-newsletters written by students, researchers, or any interested person internal to the domain
-Delegate/employ a social media manager
-Workshops at different conferences
-Online "Research Roundups"
-Incentivize participation by organizing competitions or prizes
-Website listing projects and members, blogs/posts highlighting research from different teams
-Capitalize on existing platforms like Slack or elements of sharepoints or GitHub
-Use funding that expects knowledge exchange as deliverables, like WIDERA or Erasmus style
-Co-organize MOOCs
-Student mobility between research groups/members
-Need to have accountability: president or leader, take turns every year
-Hackathons, mapathons, datathons, online regular lightning talks and a conference once a year (perhaps existing?)
-Having other versions of this workshop: a series of seminars (e.g., bi-monthly), online presentation of research
-Yearly workshop
-I really liked this workshop better than a conference, etc.
-Regular meetings/workshops among different stakeholders about mobility data, sharing and analytics
-Events that have a strong and social component can foster some sense of identity and culture as a network; don’t make it too content-focused
-Future events/workshops including all stakeholders; express interest, especially contribute to the laboratory together; sharing platform/websites
-Hackathons: shared repositories, periodic meetings (rotating volunteers?)
-Workshops/symposium with annual conferences, student/ECR paper competition, successful case study sharing
+*** Data and Tools *** 
 
+What existing datasets, platforms, or toolkits do you use or recommend for sustainable mobility analytics?
 
-YELLOW
+What key gaps exist in terms of open data availability or interoperability?
+
+What are the barriers (legal, technical, ethical) to sharing and curating open mobility data?
+
 Sharing mobility data openly is challenging due to business interests of the companies; sharing among members of the collective would be easier
 App-based mobility data is good for allowing similar data collection across countries (e.g., SafeGraph); tools: movingpandas, GTFS, SSP, R5, scikit-mobility
 U.S. Census API is surprisingly easy and useful; we should learn from them
@@ -162,3 +117,76 @@ Mobility Data Specification (MDS): good starting point—encourage members to us
 New York City Taxi and Limousine Commission data
 Paperwork marginalizing certain demographic groups
 Privacy concerns
+
+
+
+*** Events and Knowledge Mobilization *** 
+
+What kinds of future events (e.g., workshops, hackathons, conferences) would support this collective’s growth and impact?
+
+How can we maintain ongoing communication (e.g., mailing lists, shared repositories, website)? How do we ensure this is maintained?
+
+Communication: good website is key, GitHub organization for the collective, mailing list would be nice
+Events: bi-annual conference? working group meetings twice a year
+Online seminars/lectures
+Hackathons or challenge competitions that join up private stakeholders and funding that actually gets used—some useful for local governments
+A conference would be great; a website with output, ideas, research, achievements; brainstorming through emails or video calls for writing a paper
+Events: lightning talks, discovery workshops
+Communication: regular chat times to calendar (idea)
+Monthly meetings or lightning talks (spots available to reserve)
+Wondering: responsibility (rotation?) for mailing list, workshops, online meetings, etc.
+Social platforms and e-newsletters written by students, researchers, or any interested person internal to the domain
+Delegate/employ a social media manager
+Workshops at different conferences
+Online "Research Roundups"
+Incentivize participation by organizing competitions or prizes
+Website listing projects and members, blogs/posts highlighting research from different teams
+Capitalize on existing platforms like Slack or elements of sharepoints or GitHub
+Use funding that expects knowledge exchange as deliverables, like WIDERA or Erasmus style
+Co-organize MOOCs
+Student mobility between research groups/members
+Need to have accountability: president or leader, take turns every year
+Hackathons, mapathons, datathons, online regular lightning talks and a conference once a year (perhaps existing?)
+Having other versions of this workshop: a series of seminars (e.g., bi-monthly), online presentation of research
+Yearly workshop
+I really liked this workshop better than a conference, etc.
+Regular meetings/workshops among different stakeholders about mobility data, sharing and analytics
+Events that have a strong and social component can foster some sense of identity and culture as a network; don’t make it too content-focused
+Future events/workshops including all stakeholders; express interest, especially contribute to the laboratory together; sharing platform/websites
+Hackathons: shared repositories, periodic meetings (rotating volunteers?)
+Workshops/symposium with annual conferences, student/ECR paper competition, successful case study sharing
+
+
+
+
+ORANGE: Vision and Impact
+
+What long-term goals should this collective pursue (e.g., mobility “observatory”, open toolkits, policy briefs)?
+
+How can this group shape policy and public discourse around sustainable and equitable mobility?
+
+Shape policy: approach media and authorities
+Collaboration on mobility processes
+Policy: regular public posts and use-cases to spread awareness
+Recommend and support “Best Practices” or standards
+Long-term goals: become well-established and functional community; a data and analytics hub to find relevant information and tools from one place
+Strongly encourage participation from underrepresented or marginalized groups
+Continuous collaboration between each stakeholder for sustainable mobility improvement/development (e.g., government, transport operators, university)
+Identify gaps in knowledge & understanding; could be done by network mapping related research
+Establish/step mobility studies as a field so researchers stop saying “I don’t know what I am”
+Collaborative urban living labs?
+Develop data collection and processing methods and be in contact with policymakers to meet their expectations
+Provide info for general public
+Open code + tools
+Engage/work with policymakers & public/local communities in our research
+Facilitating collaboration and distributing knowledge/data
+Including cities, policymakers, and businesses
+Open toolkit for analyzing mobility data
+One thing that could make a group stand out is actually focusing on stakeholder engagement outside purely academia
+Mobility observatory
+Open toolkit
+Sharing research to publication
+Documentation about helpful processes
+Open toolkits for different stakeholders — making it available for everyone & explainable for policymakers
+To foster a scattered collaborative ecosystem that improves data handling, accessibility, affordability, and data-driven decisions for research purposes
+A public mobility observatory that launches “start-up ideas”
