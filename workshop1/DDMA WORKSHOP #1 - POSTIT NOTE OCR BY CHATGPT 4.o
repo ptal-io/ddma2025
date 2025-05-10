@@ -1,0 +1,164 @@
+DDMA WORKSHOP #1 - POSTIT NOTE OCR BY CHATGPT 4.o
+
+ORANGE
+Shape policy: approach media and authorities
+Collaboration on mobility processes
+Policy: regular public posts and use-cases to spread awareness
+Recommend and support “Best Practices” or standards
+Long-term goals: become well-established and functional community; a data and analytics hub to find relevant information and tools from one place
+Strongly encourage participation from underrepresented or marginalized groups
+Continuous collaboration between each stakeholder for sustainable mobility improvement/development (e.g., government, transport operators, university)
+Identify gaps in knowledge & understanding; could be done by network mapping related research
+Establish/step mobility studies as a field so researchers stop saying “I don’t know what I am”
+Collaborative urban living labs?
+Develop data collection and processing methods and be in contact with policymakers to meet their expectations
+Provide info for general public
+Open code + tools
+Engage/work with policymakers & public/local communities in our research
+Facilitating collaboration and distributing knowledge/data
+Including cities, policymakers, and businesses
+Open toolkit for analyzing mobility data
+One thing that could make a group stand out is actually focusing on stakeholder engagement outside purely academia
+Mobility observatory
+Open toolkit
+Sharing research to publication
+Documentation about helpful processes
+Open toolkits for different stakeholders — making it available for everyone & explainable for policymakers
+To foster a scattered collaborative ecosystem that improves data handling, accessibility, affordability, and data-driven decisions for research purposes
+A public mobility observatory that launches “start-up ideas”
+
+
+GREEN
+DATA COLLECTIVE: open, sharing tools, search of data/metadata, inclusive (OSS/resources), common project applications
+If there is a fee, no membership fee for global south students
+Hosting steering committee from various demographic, career stage, industry/academic/policy
+Intermediary role for making connections between academics, industry, and decision-makers
+Anyone can access data and analytics globally (compliant)
+Clear and transparent communication between scientists and policymakers to ensure the creation of actionable solutions
+A framework that allows collecting, possibly standardizing, and retrieving information from science-policy mechanisms
+A distributed method for hosting and processing data that is compatible with different countries’ regulations
+Standardized collected data to be appealing to different stakeholders
+Capitalize on existing initiatives (e.g., Data for Policy, Urban Labs, Services like NECTAR)
+Ensure outputs are documented, explained, and easily findable so others can reuse them
+Regular coaching to explain what "responsible research" means in specific cultural/national contexts
+Apply for funding once knowledge has been tested; don’t try to start it off immediately
+Public institutions and NGOs must guide and lead the project
+Important source providers include data-sharing developers, platforms, models, and data collectors
+Academic institutions should provide resources and develop methodology
+Use understandable formats: metadata, coding, open standards
+Ethical agreements should include privacy protocols
+Make physicists, CS people, engineers, geographers, etc., work together and learn other disciplines
+Ensure accessibility for people with limited experience or from less prestigious institutions
+Create more opportunities for students through interdisciplinary degree programs
+Have a small number of "leading" roles with shared responsibilities otherwise
+Develop datasets/models/methods and make results open, reproducible, and transferable
+Mix junior and senior researchers to foster guidance and curiosity
+Roles and commitments include data sharing, participation, and meetings
+Provide good documentation of data/tools so collaborators know how to use them (e.g., platform, purpose, interaction, licensing)
+If you use anything, your new insights have to be shared on the platform
+Outline advantages for every participant
+Voting members need to be contributors (e.g., data, funding, tools, infrastructure)
+Start as a loose group of interested volunteers involved in mobility
+Data-sharing is the strength; even sharing contact info is useful if data isn’t ready
+Ensuring equitable participation requires raising awareness across disciplines and continents
+The collective should make datasets, tools, and insights visible on the website
+EQUITABLE PARTICIPATION: FOSS platforms, spirit of togetherness, semantic tools, common terminology, possibilities for all
+Mentorship should be central, with student involvement in all aspects and travel support for conferences
+“Open” should be a requirement for data, tools, and publications
+Use a federated structure
+Provide a usable API
+Include stakeholders such as researchers (univs, NGOs), developers, and low-skilled participants
+Provide a guide for data collection, data ethics, and data usage
+Ensure diversity: individuals with different strengths in data accessibility and collection, collaboration with government and ministries
+Promote cross collaboration through multidisciplinary groups, workshops, shared curriculum design, and thesis co-supervision
+Ensure equity in funding, background, participation, collaboration, and evaluation/feedback
+Consider compatibility of mobility-based research questions vs. real-world scenarios
+PLATFORM: automatic trajectory data collecting APIs
+Showcase open-sourced data-sharing platforms (e.g., OGC)
+Enable volunteer-led contributions like question boards and prompts with target keywords (e.g., trained models)
+Include international participants from governments, international orgs, and private sectors
+
+
+PURPLE
+Communication: good website is key, GitHub organization for the collective, mailing list would be nice
+Events: bi-annual conference? working group meetings twice a year
+Online seminars/lectures
+Hackathons or challenge competitions that join up private stakeholders and funding that actually gets used—some useful for local governments
+A conference would be great; a website with output, ideas, research, achievements; brainstorming through emails or video calls for writing a paper
+Events: lightning talks, discovery workshops
+Communication: regular chat times to calendar (idea)
+Monthly meetings or lightning talks (spots available to reserve)
+Wondering: responsibility (rotation?) for mailing list, workshops, online meetings, etc.
+Social platforms and e-newsletters written by students, researchers, or any interested person internal to the domain
+Delegate/employ a social media manager
+Workshops at different conferences
+Online "Research Roundups"
+Incentivize participation by organizing competitions or prizes
+Website listing projects and members, blogs/posts highlighting research from different teams
+Capitalize on existing platforms like Slack or elements of sharepoints or GitHub
+Use funding that expects knowledge exchange as deliverables, like WIDERA or Erasmus style
+Co-organize MOOCs
+Student mobility between research groups/members
+Need to have accountability: president or leader, take turns every year
+Hackathons, mapathons, datathons, online regular lightning talks and a conference once a year (perhaps existing?)
+Having other versions of this workshop: a series of seminars (e.g., bi-monthly), online presentation of research
+Yearly workshop
+I really liked this workshop better than a conference, etc.
+Regular meetings/workshops among different stakeholders about mobility data, sharing and analytics
+Events that have a strong and social component can foster some sense of identity and culture as a network; don’t make it too content-focused
+Future events/workshops including all stakeholders; express interest, especially contribute to the laboratory together; sharing platform/websites
+Hackathons: shared repositories, periodic meetings (rotating volunteers?)
+Workshops/symposium with annual conferences, student/ECR paper competition, successful case study sharing
+
+
+YELLOW
+Sharing mobility data openly is challenging due to business interests of the companies; sharing among members of the collective would be easier
+App-based mobility data is good for allowing similar data collection across countries (e.g., SafeGraph); tools: movingpandas, GTFS, SSP, R5, scikit-mobility
+U.S. Census API is surprisingly easy and useful; we should learn from them
+A lot of datasets are good but have bad documentation/labels
+Each country has their own legislation related to sharing mobility data, which is a challenge for creating comparable data across countries
+Legal force on tech companies to share their datasets (e.g., data from Google, Uber, Apple)
+I recommend municipalities making use of data as part of evaluation and planning
+A platform to summarize/list all the available mobility data (e.g., from GPS)
+Data: OD flows, routes, APIs, networks, mobility model
+Mobility data brings money, people, academic reputation—why would they want it open?
+SUMO simulation models
+San Francisco taxi dataset
+Sharing mobility data openly is challenging due to business interests—internal sharing easier
+Datasets and tools: app-based mobility data, tools like movingpandas, GTFS, SSP, scikit-mobility
+U.S. Census API is surprisingly easy and useful; we should learn from it
+Privacy issues
+A lot of datasets are good but have bad documentation or labels
+Barriers: each country has its own legislation related to sharing mobility data, making it hard to create comparable datasets across countries
+Legal force on tech companies to share data
+I recommend municipalities make data use part of evaluation and planning
+A platform is needed to summarize/list all usable mobility data (e.g., GPS-based)
+Data types: OD flows, routes, APIs, networks, mobility models
+Mobility data brings money, reputation, and academic capital—why make it open?
+Capability, opportunity, behavior, and motivation: data should include all aspects to support sustainability analysis
+Synthetic data can be built from existing mobility datasets
+Barriers: privacy—data must be stored anonymized
+GAPS: spatio-temporal formats
+Any participatory tool for storing data must be super simple to use and anonymous; don’t store users’ data (e.g., transparency.csv)
+Difficulty of data sharing when there are competing mobility-related companies (e.g., different transport operators)
+Data is pretty valuable and so expensive
+Ethical/legal: sharing data should consider privacy protocols, especially in different contexts
+Gaps & Barriers: data accessibility and quality, data privacy/ownership, data bias/representativeness, data consistency in space and time, data licenses
+Stakeholders can get costly local cluster data to maintain, but unless infrastructure is good, the value is limited; who are these people with idle servers?
+Standardized origin-destination matrix format: UK uses square grid but Helsinki uses travel zones (TAZ); what defines a neighborhood or region?
+Main challenge is commercial interest in maintaining proprietary tools, while FOSS and open data try to move forward—an inherent conflict or solvable?
+FOSS cities post (e.g., replicability) has great tools but interoperability is still unclear
+Cluster-based computing for mobility: edge-based or cloud-based—what’s scalable and P2P compatible?
+Gaps & Barriers: data accessibility and quality, data privacy/ownership, data bias, data consistency over time, licenses
+Google Maps API, Mapbox API, OpenStreetMap dataset
+Existing data tools, etc.: geoprivacy, collaborative GIS, digital twins, data spaces
+Open privacy/masking tools (e.g., masking.xyz)
+Federated learning or analytics as a solution to data-sharing issues; protect publication use of possible geographies
+QSM government datasets: authenticity of the data and standardization
+Difficulty of data sharing with competing mobility-related companies
+Collection (big effort)
+The dataset should include attitudes and habits of people + land use data
+Mobility Data Specification (MDS): good starting point—encourage members to use this?
+New York City Taxi and Limousine Commission data
+Paperwork marginalizing certain demographic groups
+Privacy concerns
